@@ -1,4 +1,4 @@
-﻿exampleName:Two-dimensional_Arrays_to_Json
+Name:Two-dimensional_Arrays_to_Json
 
 資料是同一天，會有多筆資料
 
