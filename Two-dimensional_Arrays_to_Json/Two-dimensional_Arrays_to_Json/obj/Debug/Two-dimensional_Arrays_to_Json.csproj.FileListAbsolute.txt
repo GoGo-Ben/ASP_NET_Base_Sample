@@ -5,3 +5,11 @@ C:\_NB_RD_WorkSpace\ASP_NET_Sample\Two-dimensional_Arrays_to_Json\Two-dimensiona
 C:\_NB_RD_WorkSpace\ASP_NET_Sample\Two-dimensional_Arrays_to_Json\Two-dimensional_Arrays_to_Json\obj\Debug\Two-dimensional_Arrays_to_Json.csprojResolveAssemblyReference.cache
 C:\_NB_RD_WorkSpace\ASP_NET_Sample\Two-dimensional_Arrays_to_Json\Two-dimensional_Arrays_to_Json\obj\Debug\Two-dimensional_Arrays_to_Json.exe
 C:\_NB_RD_WorkSpace\ASP_NET_Sample\Two-dimensional_Arrays_to_Json\Two-dimensional_Arrays_to_Json\obj\Debug\Two-dimensional_Arrays_to_Json.pdb
+C:\_NB_RD_WorkSpace\ASP_NET_Base_Sample\Two-dimensional_Arrays_to_Json\Two-dimensional_Arrays_to_Json\bin\Debug\Two-dimensional_Arrays_to_Json.exe.config
+C:\_NB_RD_WorkSpace\ASP_NET_Base_Sample\Two-dimensional_Arrays_to_Json\Two-dimensional_Arrays_to_Json\bin\Debug\Two-dimensional_Arrays_to_Json.exe
+C:\_NB_RD_WorkSpace\ASP_NET_Base_Sample\Two-dimensional_Arrays_to_Json\Two-dimensional_Arrays_to_Json\bin\Debug\Two-dimensional_Arrays_to_Json.pdb
+C:\_NB_RD_WorkSpace\ASP_NET_Base_Sample\Two-dimensional_Arrays_to_Json\Two-dimensional_Arrays_to_Json\obj\Debug\Two-dimensional_Arrays_to_Json.csprojResolveAssemblyReference.cache
+C:\_NB_RD_WorkSpace\ASP_NET_Base_Sample\Two-dimensional_Arrays_to_Json\Two-dimensional_Arrays_to_Json\obj\Debug\Two-dimensional_Arrays_to_Json.exe
+C:\_NB_RD_WorkSpace\ASP_NET_Base_Sample\Two-dimensional_Arrays_to_Json\Two-dimensional_Arrays_to_Json\obj\Debug\Two-dimensional_Arrays_to_Json.pdb
+C:\_NB_RD_WorkSpace\ASP_NET_Base_Sample\Two-dimensional_Arrays_to_Json\Two-dimensional_Arrays_to_Json\bin\Debug\Newtonsoft.Json.dll
+C:\_NB_RD_WorkSpace\ASP_NET_Base_Sample\Two-dimensional_Arrays_to_Json\Two-dimensional_Arrays_to_Json\bin\Debug\Newtonsoft.Json.xml
