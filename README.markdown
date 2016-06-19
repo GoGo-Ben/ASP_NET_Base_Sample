@@ -1,5 +1,6 @@
-﻿exampleName:Two-dimensional_Arrays_to_Json,
-資料是同一天，會有多筆資料,
+﻿exampleName:Two-dimensional_Arrays_to_Json
+
+資料是同一天，會有多筆資料
 
 | 日期       | StartTime | EndTime |
 |------------|-----------|---------|
