@@ -13,4 +13,4 @@ Tool:Visual studio 2015
 ---
 ###Name:Enum_ParameterDefaultValue  
 Tool:Visual studio 2015  
-範例是列舉 字串轉數子、或數字轉字串  
+範例是列舉Enum，字串轉數字、或數字轉字串  
