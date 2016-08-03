@@ -9,8 +9,7 @@ Tool:Visual studio 2015
 |            |           |         |
 需求是要將同一天的資料轉成Json格式	[["1","5"],["10,"15"]],
 做法請查看此範例二維陣列轉Json
-
-<br/>
+---　　
 <br/>
 ###Name:Enum_ParameterDefaultValue  
 Tool:Visual studio 2015  
