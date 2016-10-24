@@ -1,5 +1,11 @@
+###Name:BIG5_To_Unicode_UTF8    
+Tool:Visual studio 2015 Community    
+範例是中文轉成Big5，再轉成UTF8，中文變"嚙踝蕭嚙踝蕭"的原因  
+參考解法：http://blog.darkthread.net/post-2016-10-10-utf8-big5-encoding-ef-bf-bd-issue.aspx  
+
+---
 ###Name:Enum_ParameterDefaultValue    
-Tool:Visual studio 2015    
+Tool:Visual studio 2015 Community    
 範例是列舉Enum，字串轉數字、或數字轉字串    
 
 ---
